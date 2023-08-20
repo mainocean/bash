@@ -44,7 +44,10 @@ About Runbooks
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Oleksandr Korchenko](https://github.com/mainocean)
+- [@Oleksandr Omelkovets ](https://github.com/somealeksandr/zoo-shop-pet)
+- [@Natalia](https://github.com/AuroraPolaire/online-store-project)
+- [@Svitlana Pozharska](https://github.com/AuroraPolaire/online-store-project)
 
 
 ## Pretty Paws Site
